@@ -32,7 +32,7 @@ public class Klient {
         String clientIP = clientSocket.getInetAddress().toString();
         int clientPort = clientSocket.getPort();
         return clientIP + ":" + clientPort;
-
+asdasd
     }
 
     static ServerSocket welcomeSocket;
